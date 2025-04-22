@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎮 Video Game Preference App")
+st.title("Video Game Preference App")
 
 if st.button("Start Game Setup"):
     st.success("Loading your game setup...")
